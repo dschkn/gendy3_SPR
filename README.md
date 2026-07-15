@@ -49,9 +49,8 @@ patchers/
 
 docs/
   GENDY3_model.md                  concise explanation of the model
+
 reference/
-  Untitled1_original.maxpat        preserved initial sketch
-  clear_all_original.js            preserved initial utility
   README.md                        bibliography and reference notes
 ```
 
